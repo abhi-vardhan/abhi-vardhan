@@ -1,8 +1,16 @@
 ### Hi there, I'm D Abhinav Vardhan 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /></p>
+<a href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/abhi-vardhan?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+ </p>
+  <a href="https://twitter.com/Abhinav_2203" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
+/></a></p>
 ## I am a Student from India
 - 📚 I'm currently persuing my Bachelors Degree
 - ⚡ Always fascinated to learn new things
+- 📧 Contact me at vardhanabhi22@gmail.com
 
 ### Connect with me:
 
