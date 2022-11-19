@@ -1,6 +1,6 @@
 ### Hi there, I'm D Abhinav Vardhan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="digvijay" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav" /></p>
 <a href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abhi-vardhan?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
  </p>
@@ -22,6 +22,9 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/abhivardhan_pvt#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/abhivardhan_pvt#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/github-light.svg)](https://github.com/abhi-vardhan#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/abhi-vardhan#gh-dark-mode-only)
 
 
 ### Languages and Tools:
