@@ -7,6 +7,7 @@ src="https://img.shields.io/github/followers/abhi-vardhan?logo=github&style=for-
   <a href="https://twitter.com/Abhinav_2203" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a></p>
+
 ## I am a Student from India
 - 📚 I'm currently persuing my Bachelors Degree
 - ⚡ Always fascinated to learn new things
