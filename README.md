@@ -24,10 +24,6 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 [![website](./img/instagram-light.svg)](https://instagram.com/abhivardhan_pvt#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/abhivardhan_pvt#gh-dark-mode-only)
 &nbsp;&nbsp;
-# had to comment these cause these are not working as expected
-# [![website](./img/github-light.svg)](https://github.com/abhi-vardhan#gh-light-mode-only)
-# [![website](./img/github-dark.svg)](https://github.com/abhi-vardhan#gh-dark-mode-only)
-
 
 ### Languages and Tools Known:
 
