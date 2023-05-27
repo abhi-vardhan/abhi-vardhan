@@ -1,4 +1,4 @@
-### Hi there, I'm D Abhinav Vardhan 👋
+### <h1>Hi there, I'm D Abhinav Vardhan 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-vardhan&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav" /></p>
 <a href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img
@@ -8,12 +8,12 @@ src="https://img.shields.io/github/followers/abhi-vardhan?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a></p>
 
-## I am a Student from India
+## <h3> I am a Student from India </h3>
 - 📚 I'm currently persuing my Bachelors Degree
 - ⚡ Always fascinated to learn new things
 - 📧 Contact me at vardhanabhi22@gmail.com
 
-### Connect with me:
+### <h3> Connect with me: </h3>
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Abhinav_2203#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Abhinav_2203#gh-dark-mode-only)
@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 [![website](./img/instagram-dark.svg)](https://instagram.com/abhivardhan_pvt#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools Known:
+### <h3> Languages and Tools Known: </h3>
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
