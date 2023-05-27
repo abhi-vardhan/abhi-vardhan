@@ -17,16 +17,14 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 
 
 
-### <h3> Connect with me: </h3>
-
+## <h3> Connect with me: </h3>
 <p align="left"> 
     <a href=https://linkedin.com/in/d-abhinav-vardhan-b9516a226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
     <a href="https://twitter.com/Abhinav_2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
     <a href="https://discord.com/users/d_abhi#5543" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
     <a  href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> &nbsp;&nbsp;
 
-
-### <h3> Languages and Tools Known: </h3>
+## <h3> Languages and Tools Known: </h3>
 
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -42,12 +40,11 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 <br />
 <br />
 
----
-⚡ GitHub Stats
+## <h3>  ⚡ GitHub Stats </h3>
 
-<img align="left" alt="abhi-vardhan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhi-vardhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-vardhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="abhinav Stats" /></p>
+<img align="left" alt="abhi-vardhan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhi-vardhan&show_icons=true&theme=transparent"/>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi-vardhan&theme=transparent)](https://git.io/streak-stats)
 
 
