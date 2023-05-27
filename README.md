@@ -43,8 +43,8 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 
 ## <h3>  ⚡ GitHub Stats </h3>
 
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abhi-vardhan&show_icons=true&theme=transparent)](https://git.io/streak-stats)
 
-<img align="left" alt="abhi-vardhan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhi-vardhan&show_icons=true&theme=transparent"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi-vardhan&theme=transparent)](https://git.io/streak-stats)
 
