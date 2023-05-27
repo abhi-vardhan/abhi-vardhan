@@ -15,21 +15,11 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 
 ### <h3> Connect with me: </h3>
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Abhinav_2203#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Abhinav_2203#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/d-abhinav-vardhan-b9516a226#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/d-abhinav-vardhan-b9516a226#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/abhivardhan_pvt#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abhivardhan_pvt#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
-<p align="left"> <a href="https://discord.com/users/d_abhi#5543" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-    <a  href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+<p align="left"> 
     <a href=https://linkedin.com/in/d-abhinav-vardhan-b9516a226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
     <a href="https://twitter.com/Abhinav_2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>&nbsp;&nbsp;
+    <a href="https://discord.com/users/d_abhi#5543" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+    <a  href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
 
 
 ### <h3> Languages and Tools Known: </h3>
@@ -43,11 +33,8 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:10px;" />
+
 
 <br />
 <br />
@@ -56,5 +43,8 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 ⚡ GitHub Stats
 
 <img align="left" alt="abhi-vardhan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhi-vardhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-vardhan&theme=monokai" alt="digvijayshelar" /></p>
+
 
 
