@@ -22,7 +22,8 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
     <a href=https://linkedin.com/in/d-abhinav-vardhan-b9516a226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
     <a href="https://twitter.com/Abhinav_2203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
     <a href="https://discord.com/users/d_abhi#5543" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-    <a  href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> &nbsp;&nbsp;
+    <a  href="https://www.github.com/abhi-vardhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+    </p>
 
 ## <h3> Languages and Tools Known: </h3>
 
