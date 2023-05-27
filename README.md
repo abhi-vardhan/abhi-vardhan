@@ -9,9 +9,9 @@ src="https://img.shields.io/twitter/follow/Abhinav_2203?logo=twitter&style=for-t
 /></a></p>
 
 ## <h3> I am a Student from India </h3>
-- 📚 I'm currently persuing my Bachelors Degree
-- ⚡ Always fascinated to learn new things
-- 📧 Contact me at vardhanabhi22@gmail.com
+- 📚 I'm currently persuing my Bachelors Degree in Computer Applications <br>
+- ⚡ Always fascinated to learn new things <br>
+- 📧 Contact me at vardhanabhi22@gmail.com <br>
 
 ### <h3> Connect with me: </h3>
 
