@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/abhi-vardhan?logo=github&style=for-
 ##                                                                                                                    
 - 👨‍🎓 I am a Student from India 
                                                                                                                          
-- 📚 I'm currently persuing my Bachelors Degree in Computer Applications 
+- 📚 I'm currently persuing my Master's Degree in Computer Applications @ JNTU Hyd 
 
 - ⚡ Always fascinated to learn new things 
 
